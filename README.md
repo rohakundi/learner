@@ -1,3 +1,3 @@
 # learner
-this is my first repo \n
+This is my first git repo. <br>
 today i did my first commit
